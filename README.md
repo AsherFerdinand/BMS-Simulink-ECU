@@ -27,9 +27,11 @@ Model-Based Development (MBD) implementation of an Electric Vehicle BMS software
 ---
 
 ### 👇Results
-![Root Canvas BMS Controller](Root Canvas BMS Controller.png)
+![Root Canvas BMS Controller]BMS-Simulink-ECU
+/Root Canvas BMS Controller.png)
 
-![Subsystem Software and State Machine](Subsystem Software and State Machine.png)
+![Subsystem Software and State Machine](BMS-Simulink-ECU
+/Subsystem Software and State Machine.png)
 
 
 ---
