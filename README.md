@@ -1,4 +1,4 @@
-# BMS-Simulink-ECU
+u# BMS-Simulink-ECU
 
 # Automotive Battery Management System (BMS) ECU Model
 
@@ -26,7 +26,7 @@ Model-Based Development (MBD) implementation of an Electric Vehicle BMS software
 
 ---
 
-### 👇Results
+### 👇Setup
 Root Canvas BMS Controller
 <img width="1157" height="582" alt="Root Canvas BMS Controller" src="https://github.com/user-attachments/assets/40edeaff-06f2-4fba-a547-773a4902fcb9" />
 Subsystem Software and State Machine
