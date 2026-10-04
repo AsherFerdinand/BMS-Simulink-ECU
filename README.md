@@ -27,12 +27,13 @@ Model-Based Development (MBD) implementation of an Electric Vehicle BMS software
 ---
 
 ### 👇Results
-![Root Canvas BMS Controller](BMS-Simulink-ECU/Root Canvas BMS Controller.png)
-
-![Subsystem Software and State Machine] (BMS-Simulink-ECU/Subsystem Software and State Machine.png)
-
+Root Canvas BMS Controller
+<img width="1157" height="582" alt="Root Canvas BMS Controller" src="https://github.com/user-attachments/assets/40edeaff-06f2-4fba-a547-773a4902fcb9" />
+Subsystem Software and State Machine
+<img width="1487" height="702" alt="Subsystem Software and State Machine" src="https://github.com/user-attachments/assets/aaf52b76-4562-435c-8862-2cda73bb4295" />
 
 ---
+
 
 ## 🚀 How to Run the Simulation
 1. Open MATLAB (R2022b or newer recommended).
