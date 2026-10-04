@@ -26,6 +26,14 @@ Model-Based Development (MBD) implementation of an Electric Vehicle BMS software
 
 ---
 
+### 👇Results
+![Root Canvas BMS Controller](Root Canvas BMS Controller.png)
+
+![Subsystem Software and State Machine](Subsystem Software and State Machine.png)
+
+
+---
+
 ## 🚀 How to Run the Simulation
 1. Open MATLAB (R2022b or newer recommended).
 2. Load `models/bms_controller.slx`.
